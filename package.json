@@ -1,0 +1,22 @@
+{
+  "name": "webhook-validate",
+  "version": "1.0.0",
+  "description": "Validate imdone.io webhook signatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imdone/webhook-validate.git"
+  },
+  "author": "Jesse Piascik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imdone/webhook-validate/issues"
+  },
+  "homepage": "https://github.com/imdone/webhook-validate#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
